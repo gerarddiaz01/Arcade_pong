@@ -10,25 +10,6 @@ This was built as part of my 3rd month learning Python (April 2025), and was my 
 
 ---
 
-## Project Structure
-
-```
-arcade_pong
-├── src
-│   ├── main.py        # Entry point of the game
-│   ├── paddle.py      # Paddle class for player controls
-│   ├── ball.py        # Ball class for game mechanics
-│   ├── utils.py       # Utility functions and constants
-│   ├── sounds/        # Folder containing sound files
-│       ├── SalmonLikeTheFish - Glacier.mp3
-│       ├── paddle_hit.mp3
-│       ├── chime_alert.mp3
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
-```
-
----
-
 ## How to Run the Game
 
 1. Ensure you have Python installed on your machine. This project uses Python's built-in turtle module, so no additional installations are required.
